@@ -1,4 +1,17 @@
 
+2026-02-05
+=================
+- Uygulama adı "kg pen" olarak güncellendi.
+- Görev çubuğunda görünür hale getirildi (FormTaskbar).
+- Yeni logo/ikon eklendi ve uygulama ikonu güncellendi.
+- Araç çubuğuna "Seçenekler" ve "Hakkında" butonları eklendi.
+- "Renk+" butonu ile mini renk tekeri ve canlı renk seçimi eklendi.
+- Seçili kalemin rengi renk tekerinden anında değişiyor.
+- Yazı düzeltme (TR) otomatik dönüştürme eklendi, gecikme 2 sn.
+- Seçenekler ekranına "Hata bildir" eklendi ve "Sorun Bildir" sekmesi oluşturuldu.
+- Hakkında metni güncellendi.
+- .NET 4.0 hedefi ve çalışma zamanı ayarı yapıldı.
+
 v1.2.0 (Feb. 13, 2023)
 =================
 - Allow using F1 to F12 as hotkeys.
@@ -168,14 +181,3 @@ v0.1.1 (Jan. 17, 2016)
 v0.1 (Jan. 15, 2016)
 =================
 - First alpha release.
-2026-02-05
- - Uygulama adı "kg pen" olarak güncellendi.
- - Görev çubuğunda görünür hale getirildi (FormTaskbar).
- - Yeni logo/ikon eklendi ve uygulama ikonu güncellendi.
- - Araç çubuğuna "Seçenekler" ve "Hakkında" butonları eklendi.
- - "Renk+" butonu ile mini renk tekeri ve canlı renk seçimi eklendi.
- - Seçili kalemin rengi renk tekerinden anında değişiyor.
- - Yazı düzeltme (TR) otomatik dönüştürme eklendi, gecikme 2 sn.
- - Seçenekler ekranına "Hata bildir" eklendi ve "Sorun Bildir" sekmesi oluşturuldu.
- - Hakkında metni güncellendi.
- - .NET 4.0 hedefi ve çalışma zamanı ayarı yapıldı.
