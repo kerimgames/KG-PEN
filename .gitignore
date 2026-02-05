@@ -1,0 +1,10 @@
+bin/
+bin_new/
+build/
+*.pdb
+*.user
+*.suo
+*.cache
+*.log
+crash.txt
+package-lock.json
